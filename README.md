@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently working on [Android development](https://developer.android.com/)
 - 🌱 I’m currently learning more about virtual machine placement.
-- 👯 I’m looking to develop some amazing appalication with great feature
+- 👯 I’m looking to develop some amazing application with great feature
 - 🤔 I’m looking for a job.
 - 💬 Ask me about Android or any tech related stuff.
 - 📫 How to reach me: instagram -[@debadutta.26918.vk](https://www.instagram.com/debadutta.26918.vk/) , facebook -[@Debadutta panda](https://www.facebook.com/debaduttapanda.dev/) ,Medium -[@debaduttapanda](https://medium.com/@debaduttapanda)
