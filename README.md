@@ -22,8 +22,7 @@
 </a>
 <br/>
 <br/>
-
-
+<img align="right" style="margin-top:-10px"src="https://github.com/debadutta98/debadutta98/blob/master/giphy.gif" height=300 width=300/>
 
 - 🔭 I’m currently working on [Android development](https://developer.android.com/)
 - 🌱 I’m currently learning more about virtual machine placement.
@@ -32,7 +31,7 @@
 - 💬 Ask me about Android or any tech related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
-<img align="right" src="https://github.com/debadutta98/debadutta98/blob/master/giphy.gif" height=300 width=300/>
+
 
 #### A little about me...  
 [![Linkedin: Debadutta panda](https://img.shields.io/badge/-Debadutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/debadutta-panda-58b905176/)](https://www.linkedin.com/in/debadutta-panda-58b905176/)
