@@ -1,5 +1,5 @@
 ## Hola, I'm Debadutta panda 👋
-
+<img src="https://github.com/debadutta98/debadutta98/blob/master/1_IRGHmiGsa16stedQvIaZfw.gif" height="550" width="1000">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debadutta98&label=Views&color=blue&style=plastic" alt="debadutta98" /> </p>
 
 <a href="https://www.linkedin.com/in/debadutta-panda-58b905176/">
