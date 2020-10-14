@@ -30,10 +30,13 @@
 - 👯 I’m looking to develop some amazing application with great feature
 - 🤔 I’m looking for a job.
 - 💬 Ask me about Android or any tech related stuff.
-- 📫 How to reach me: instagram -[@debadutta.26918.vk](https://www.instagram.com/debadutta.26918.vk/) , facebook -[@Debadutta panda](https://www.facebook.com/debaduttapanda.dev/) ,Medium -[@debaduttapanda](https://medium.com/@debaduttapanda)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+<img src="https://komarev.com/ghpvc/?username=debadutta98&style=flat-square"/>
 
+<img align="right" alt="GIF" src="" height=300 width=300/>
+
+#### A little about me...  
 [![Linkedin: Debadutta panda](https://img.shields.io/badge/-Debadutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/debadutta-panda-58b905176/)](https://www.linkedin.com/in/debadutta-panda-58b905176/)
 [![GitHub debadutta98](https://img.shields.io/github/followers/debadutta98?label=follow&style=social)](https://github.com/debadutta98)
 
