@@ -24,11 +24,11 @@
 <br/>
 <img align="right" style="margin-top:-10px"src="https://github.com/debadutta98/debadutta98/blob/master/giphy.gif" height=300 width=300/>
 
-- 🔭 I’m currently working on [Javascript Frameworks](https://javascript.com/)
+- 🔭 I’m currently working on Javascript and Golang Frameworks
 - 🌱 I’m currently learning more about FrontEnd Frameworks.
-- 👯 I’m looking to develop some amazing application with great feature
+- 👯 I’m looking to develop some amazing applications with great feature
 - 🤔 I’m looking for a job.
-- 💬 Ask me about javascript or any tech related stuff.
+- 💬 Ask me about javascript or any tech-related stuff.
 - 😄 Pronouns: He/His
 
 
